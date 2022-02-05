@@ -1,17 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abenezer-Tilahun">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Abenezer...;A+Front End+Software+ Developer👨‍💻;Nice+to+meet+you+🙂!&center=true&size=30">
-  </a>
+  
+ # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+  
 </h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/abenezer-tilahun-4b4b43137/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="#" title="Portfolio Website"><img width="22" src="images/website.png"> Website</a></code>
   <code><a href="https://twitter.com/AbenezerTilah11" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
-  [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Abenezer-Tilahun)
-</h5>
+  <code><a href="https://github.com/Abenezer-Tilahun" title="Git-hub profile"><img width="22" src="images/github.svg"> Github</a></code>
 <br>
 <p align="center">
 <br>
