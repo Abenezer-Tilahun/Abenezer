@@ -2,7 +2,7 @@
 
 <h1 align="center">
   
- # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+ # Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> I'm Abenezer
   
 </h1>
 
@@ -11,6 +11,7 @@
   <code><a href="#" title="Portfolio Website"><img width="22" src="images/website.png"> Website</a></code>
   <code><a href="https://twitter.com/AbenezerTilah11" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
   <code><a href="https://github.com/Abenezer-Tilahun" title="Git-hub profile"><img width="22" src="images/github.svg"> Github</a></code>
+</h5>
 <br>
 <p align="center">
 <br>
