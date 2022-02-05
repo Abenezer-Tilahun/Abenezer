@@ -16,7 +16,7 @@
 <p align="center">
 <br>
 <p align="center">
-  Hi, I'm Abenezer, A Front End Software Developer!!!
+  I'm Abenezer, A Front End Software Developer!!!
   <br>
   <br>
   🔬 I'm currently studying at <a href="https://www.microverse.org/">MicroverseInc</a>
