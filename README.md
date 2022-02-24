@@ -58,12 +58,19 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=Abenezer-Tilahun &theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Abenezer-Tilahun " />
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Abenezer-Tilahun&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=shades-of-purple&bg_color=161B22" alt="Abenezer-Tilahun " /></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenezer-Tilahun&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=solarized-dark&bg_color=161B22" alt="Abenezer-Tilahun " />
     </a>
+    
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
+  <a href="https://github.com/Abenezer-Tilahun/github-readme-stats">
+       <img src="https://activity-graph.herokuapp.com/graph?username=Abenezer-Tilahun&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    </a>
     <a href="https://skyline.github.com/abenezer-tilahun/2021"></a>
   </div>
   <br>
