@@ -59,7 +59,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Abenezer-Tilahun&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=shades-of-purple&bg_color=161B22" alt="Abenezer-Tilahun " /></a>
+    <img align="left" width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=Abenezer-Tilahun&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=shades-of-purple&bg_color=161B22" alt="Abenezer-Tilahun " /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenezer-Tilahun&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=solarized-dark&bg_color=161B22" alt="Abenezer-Tilahun " />
