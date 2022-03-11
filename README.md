@@ -16,14 +16,14 @@
 <p align="center">
 <br>
 <p align="center">
-  I'm Abenezer, A Front End Software Developer!!!
+  I'm Abenezer, A Full-Stack Developer!!!
   <br>
   <br>
   🔬 I'm currently studying at <a href="https://www.microverse.org/">MicroverseInc</a>
   <br>
   🌱 I am enthusiastic about learning new technology. In 2021 I start learning about the web development, I learned **HTML**, **CSS**, and **JavaScript**. In 2022 till now, I learned **React**, **TypeScript**, **SASS**.
   <br>
-  💻 💬 My favorite topics are [ "Ruby", "Ruby on Rails", "JavaScript", "ReactJS", "CSS" ] 
+  💻 💬 My favorite topics are [ "Ruby", "Ruby on Rails","Java", "JavaScript", "ReactJS", "CSS" ] 
   <br>
   📚 I’m currently learning how to build  software applications.
   <br>
