@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/abenezer-tilahun-4b4b43137/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="#" title="Portfolio Website"><img width="22" src="images/website.png"> Website</a></code>
+  <code><a href="https://abenezer-tilahun.github.io/My-Portfolio/"title="Portfolio Website"><img width="22" src="images/website.png"> Website</a></code>
   <code><a href="https://twitter.com/AbenezerTilah11" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
   <code><a href="https://github.com/Abenezer-Tilahun" title="Git-hub profile"><img width="22" src="images/github.svg"> Github</a></code>
 </h5>
