@@ -19,7 +19,7 @@
   I'm Abenezer, A Full-Stack Developer!!!
   <br>
   <br>
-  🔬 I'm currently studying at <a href="https://www.microverse.org/">MicroverseInc</a>
+  🔬 I'm currently studying at <a href="https://www.microverse.org/">Microverse Inc.</a>
   <br>
   🌱 I am enthusiastic about learning new technology. In 2021 I start learning about the web development, I learned **HTML**, **CSS**, and **JavaScript**. In 2022 till now, I learned **React**, **TypeScript**, **SASS**.
   <br>
@@ -27,7 +27,7 @@
   <br>
   📚 I’m currently learning how to build  software applications.
   <br>
-  📄 To know about my work & experiences My Resume
+  📄 To know about my work & experiences My <a href="https://www.linkedin.com/in/abenezer-tilahun-4b4b43137/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
   <br>
   📫 You can reach me on: <a>abenezermesafint2128@gmail.com</a>
 </p>
